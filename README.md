@@ -1,7 +1,7 @@
 c_Learning
 ==========
 
-This is where my code from teh cs106b Stanford class will reside. 
+This is where my code from the cs106b Stanford class will reside. 
 
 The book being used is call Programming Abstractions. I'm currently following the 2014 Spring course and the materials and projects will be from there. 
 
