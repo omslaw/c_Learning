@@ -19,3 +19,16 @@ To do it from the Git Shell. (https://help.github.com/articles/create-a-repo)
 
 To clone a repo down to my machine:
 -git clone XXXXXXX 
+ 
+To pull new changes from repo to local machine, here is what manual says to do:
+-git remote add upstream https://github.com/octocat/Spoon-Knife.git
+# Assigns the original repository to a remote called "upstream"
+-git fetch upstream
+# Pulls in changes not present in your local repository, without modifying your files
+
+But that didn't seem to work for, I did a git status and noticed it said hey, 
+you are behind, use git pull to pull new changes. That worked so use:
+
+-git pull
+
+
