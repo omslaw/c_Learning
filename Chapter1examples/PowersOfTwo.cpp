@@ -30,8 +30,8 @@ int main() {
 /*
  * Function: raiseToPower
  * Usage: int p = raiseToPower(n, k);
- * ---------------------------------
- * Returns the integer n raised to teh kth power.
+ * -----------------------------------
+ * Returns the integer n raised to the kth power.
  */
 
 int raiseToPower(int n, int k) {
