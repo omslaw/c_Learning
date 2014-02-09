@@ -1,4 +1,4 @@
-C_Learning
+c_Learning
 ==========
 
 This is where my code from teh cs106b Stanford class will reside. 
