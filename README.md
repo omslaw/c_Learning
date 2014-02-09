@@ -17,3 +17,5 @@ To do it from the Git Shell. (https://help.github.com/articles/create-a-repo)
 -git push  or git push origin master. Both seemed to work for me. 
 
 
+To clone a repo down to my machine:
+-git clone XXXXXXX 
