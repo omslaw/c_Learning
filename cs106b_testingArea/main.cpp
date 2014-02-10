@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int mainx()
 {
     cout << "Hello World!" << endl;
     cout << "Finally got this to work from QT creator, but utimately, will just use Git shell." << endl;
