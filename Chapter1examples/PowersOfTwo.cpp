@@ -41,14 +41,3 @@ int raiseToPower(int n, int k) {
     }
     return result;
 }
-
-
-
-
-
-
-
-
-
-
-
