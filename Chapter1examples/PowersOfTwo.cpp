@@ -15,7 +15,7 @@ int raiseToPower(int n, int k);
 
 /* Main Program */
 
-int main() {
+int mainx() {
     int limit;
     cout << "This program lists powers of two." << endl;
     cout << "Enter exponent limit: ";

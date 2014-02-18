@@ -8,7 +8,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int mainx() {
     int steelers;
     int browns;
     cout << "Steelers: How many points did they score? ";

@@ -4,5 +4,6 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-    PowersOfTwo.cpp
+    PowersOfTwo.cpp \
+    AddIntegerList.cpp
 
